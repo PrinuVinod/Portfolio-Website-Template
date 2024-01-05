@@ -753,9 +753,7 @@ section .container {
   border-color: #18d26e;
 }
 
-.services .icon-box:hover .icon {
-  background: black;
-}
+
 
 .services .icon-box:hover .icon i {
   color: #18d26e;
